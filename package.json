@@ -1,0 +1,18 @@
+{
+  "name": "skyburst",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Skyburst: a night-sky crash game built with Next.js (plain JS). Virtual credits only.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node --test tests/"
+  },
+  "dependencies": {
+    "next": "^16.4.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "type": "module"
+}
